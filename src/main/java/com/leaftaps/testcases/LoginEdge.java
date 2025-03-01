@@ -32,7 +32,7 @@ public class LoginEdge {
 		// dc.setVersion("120.0");
 		dc.setPlatform(Platform.LINUX);
 
-		RemoteWebDriver driver = new RemoteWebDriver(new URL("http://20.40.48.160:4444/wd/hub"), dc);
+		RemoteWebDriver driver = new RemoteWebDriver(new URL("http://98.70.50.145:32000/wd/hub"), dc);
 
 		// ChromeDriver driver = new ChromeDriver();
 
